@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.cont {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+
+.name {
+    color: #03adfc;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    font-style: italic;
+}
+
+.email {
+    color: #03adfc;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    font-style: italic;
+}
+
+.address {
+    font-style: italic;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.img {
+    align-self: center;
+}
+
+.objective {
+    color: #fc9d03;
+    font-family: "Bree Serif";
+    font-size: 25px;
+    font-style: italic;
+}
+
+.objective1 {
+    color: #4467e3;
+    font-family: "Bree Serif";
+    align-self: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.line {
+    color: #9ea8a5;
+    width: 100%;
+}
+
+.eduaction-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.college {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.duration {
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.edu-desc {
+    font-size: 18px;
+    font-family: "Roboto";
+
+    color: #888c8b;
+}
+
+.item1 {
+    font-size: 18px;
+    font-family: "Roboto";
+
+    color: #888c8b;
+}
+
+.item {
+    font-family: "Roboto";
+    font-size: 15px;
+    margin: 5px;
+    font-weight: bold;
+
+}
+
+.projectname {
+    font-size: 18px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.sign {
+    align-self: flex-end;
+}
+
+.footer-cont {
+    display: flex;
+    flex-direction: column;
+}
