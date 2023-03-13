@@ -8,6 +8,7 @@
 
 .header {
     display: flex;
+    justify-content: space-between;
     flex-direction: row;
     border: 1px solid #000000;
     padding: 10px;
